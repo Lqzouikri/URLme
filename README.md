@@ -4,7 +4,7 @@
 generator and enumeration filetring Urls
 
 # Usage :
-download the Script
+git clone https://github.com/Lqzouikri/URLme.git
 cd/
 python Urlme.py 
  
